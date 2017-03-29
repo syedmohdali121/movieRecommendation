@@ -1,4 +1,4 @@
-#https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
+
 library(readr)
 movie_cluster <- read_csv("D:/Mine/Big Data/Data set/Movie Data Set/ml-latest/ml-latest/movie_cluster.csv")
 clean_movie <- movie_cluster[,-1]
